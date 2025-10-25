@@ -1,0 +1,1 @@
+O professor insere a média da escola e a nota do aluno nos prompts exibidos, em seguida, o computador irá responder dizendo se o aluno foi ou não aprovado.
